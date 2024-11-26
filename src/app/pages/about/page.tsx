@@ -144,7 +144,7 @@ export default function AboutPage() {
 
           Para ello la CCI Mendoza brinda asistencia, información económica, comercial y tecnológica, activa contactos, organiza misiones, participa en ferias y otros eventos y potenciando toda acción a favor del crecimiento y desarrollo regional.
 
-          Es miembro activo de `Assocamerestero` (Asociación de Cámaras de Comercio Italianas en el mundo), con sede en Roma.           
+          Es miembro activo de `Assocamerestero` (Asociación de Cámaras de Comercio Italianas en el mundo), con sede en Roma..           
           </p>
           <h2 className="text-3xl mt-10 font-bold tracking-tight text-gray-900 sm:text-4xl">Misión</h2>
           <p className="mt-6 text-lg leading-8 text-gray-600 text-pretty">
