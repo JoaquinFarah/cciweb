@@ -157,7 +157,7 @@
 
 
 
-
+//ESTA ES EL MODAL COMUN
 
 
 
@@ -358,7 +358,7 @@ export default function NewsPage() {
 
 
 
-
+//ESTA ES EL MODAL SWAL2
 
 
 
